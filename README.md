@@ -23,3 +23,6 @@ Este é uma de alguns treinamentos que estou realizando para manter-me atualizad
    <p>Python</p>
    <p>Google Coolab</p>
    <p>Visual Code</p>
+
+## 🛠 Fontes de dados 
+   <a href="https://www.kaggle.com/datasets/tapakah68/facial-emotion-recognition?resource=download">DataSet diferentes tipos de Faces</a>
